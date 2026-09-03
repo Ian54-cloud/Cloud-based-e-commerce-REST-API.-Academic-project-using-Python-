@@ -1,5 +1,5 @@
 ## Cloud based e-commerce REST API
-## At university, i have got this final project to build a e-commerce backend API built with **Fast api**. This application implements a simple product catalog and secure order processing system. 
+* At university, i have got this final project to build a e-commerce backend API built with **Fast api**. This application implements a simple product catalog and secure order processing system. 
 
 ##  Key Architectural Features
 
